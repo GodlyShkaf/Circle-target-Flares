@@ -1,0 +1,9 @@
+{
+    "name": "ct",
+    "displayName": "Circle target Flares",
+    "author": "Crazypumpkinserge",
+    "description": "Returns old behavior to flares",
+    "Version":136,
+    "minGameVersion": 136,
+    "hidden": false
+}
